@@ -92,7 +92,7 @@ The test results will be displayed in the console, including:
 - Detailed information on any failed requests, including status codes and response times.
 
 Example: 
-<img width="888" alt="Screenshot 2024-07-30 at 10 21 43 AM" src="https://github.com/user-attachments/assets/5e6e49ee-15fc-463b-8b15-df4ec2c32875">
+<img width="888" alt="Screenshot 2024-07-30 at 10 21 43 AM" src="https://github.com/user-attachments/assets/e460e884-a145-4e28-a62d-984c1015c403">
 
 ## Load Profile explanation
 ```json
